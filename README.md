@@ -6,3 +6,4 @@ A Computer Engineer from Chile and a tech enthusiast who loves to learn about ne
 - 🌱 I’m currently learning __Playwright__
 - ⚙️ I use daily: `.js`, `.py`.
 - 🌍 I'm mostly active within FLOSS communities.
+- 💬 How to reach me: [Mastodon](https://rebel.ar/@srmorita 'Mastodon account')
