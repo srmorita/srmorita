@@ -1,4 +1,4 @@
-# Hello navigator!! :wave:
+# Hi navigator!! :wave:
 
 A Computer Engineer from Chile and a tech enthusiast who loves to learn about new things.
 
