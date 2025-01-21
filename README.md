@@ -1,6 +1,6 @@
 # Hi navigator!! :wave:
 
-A Computer Engineer from Chile and a tech enthusiast who loves to learn about new things.
+A Computer Engineer from and a tech enthusiast who loves to learn about new things.
 
 - 🔭 I’m currently working as __Senior QA Automation Engineer__.
 - 🌱 I’m currently learning __Playwright__
