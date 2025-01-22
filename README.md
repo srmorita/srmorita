@@ -1,6 +1,8 @@
 # Hi navigator!! :wave:
 
-A Computer Engineer and tech enthusiast who loves to learn about new things.
+![Mastodon Follow](https://img.shields.io/mastodon/follow/113866621931411015?domain=rebel.ar)
+
+Computer Engineer and tech enthusiast who loves to learn about new things.
 
 - 🔭 I’m currently working as __Senior QA Automation Engineer__.
 - 🌱 I’m currently learning __Playwright__
