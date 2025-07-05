@@ -1,6 +1,6 @@
 # Hi navigator!! :wave:
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/113866621931411015?domain=rebel.ar)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/113866621931411015?domain=lile.cl)
 
 Computer Engineer and tech enthusiast who loves to learn about new things.
 
@@ -8,4 +8,4 @@ Computer Engineer and tech enthusiast who loves to learn about new things.
 - 🌱 I’m currently learning __Playwright__
 - ⚙️ I use daily: `.js`, `.py`.
 - 🌍 I'm mostly active within FLOSS communities.
-- 💬 How to reach me: [Mastodon](https://rebel.ar/@srmorita 'Mastodon account')
+- 💬 How to reach me: [Mastodon](https://lile.cl/@srmorita 'Mastodon account')
