@@ -1,6 +1,6 @@
 # Hi navigator!! :wave:
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/113866621931411015?domain=lile.cl)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/114796112260589362?domain=lile.cl&style=social)
 
 Computer Engineer and tech enthusiast who loves to learn about new things.
 
