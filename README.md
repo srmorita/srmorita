@@ -4,7 +4,7 @@
 
 Computer Engineer and tech enthusiast who loves to learn about new things.
 
-- 🔭 I’m currently working as __Senior QA Automation Engineer__.
+- 🔭 I’m currently working as a __Senior QA Automation Engineer__.
 - 🌱 I’m currently learning __TypeScript__
 - ⚙️ I use daily: `.js`, `.py`.
 - 🌍 I'm mostly active within FLOSS communities.
