@@ -1,4 +1,4 @@
-# Hi navigator!! :wave:
+# Hello World!! :wave:
 
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/114796112260589362?domain=lile.cl&style=social)
 
